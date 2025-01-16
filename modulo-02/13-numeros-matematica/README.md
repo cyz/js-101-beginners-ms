@@ -1,5 +1,3 @@
-Lo siento por el error. Aquí está la traducción al español:
-
 # Números y Matemáticas
 
 Se podría decir que una computadora no es más que una calculadora sofisticada. Te dejaremos debatir la validez de ese dicho. Pero no se puede negar que las matemáticas son una de las operaciones más comunes que realizarás. JavaScript tiene un conjunto completo de opciones disponibles para ti.
