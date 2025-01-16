@@ -36,6 +36,18 @@ No importa tu nivel de experiencia, encontrarás valor y desafíos que expandir�
 1. Objetos en JavaScript
 1. Programación Asíncrona y Promesas
 
+## 📖 Recursos Adicionales
+
+En este repositorio, encontrarás una variedad de recursos para complementar tu aprendizaje:
+
+- **Artículos de apoyo**: Hemos preparado una serie de artículos que profundizan en los conceptos clave de JavaScript. Estos textos te ayudarán a reforzar lo aprendido en las clases y te proporcionarán información adicional sobre temas avanzados.
+
+- **Ejemplos de código**: Para cada tema del curso, encontrarás ejemplos de código prácticos y comentados. Estos ejemplos te permitirán ver cómo se aplican los conceptos en situaciones reales y te servirán como referencia para tus propios proyectos.
+
+- **Ejercicios prácticos**: Hemos incluido una serie de ejercicios para que puedas poner en práctica tus habilidades. Cada ejercicio viene con instrucciones detalladas y soluciones para que puedas comprobar tu progreso.
+
+Te animamos a explorar estos recursos, experimentar con el código y usarlos como apoyo durante tu viaje de aprendizaje de JavaScript.
+
 ## 🛠 Requisitos
 
 - Un ordenador con conexión a internet
