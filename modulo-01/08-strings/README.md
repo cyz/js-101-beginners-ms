@@ -1,5 +1,3 @@
-Lo siento por el error. Aquí está la traducción al español:
-
 # Strings
 
 Las strings en JavaScript son colecciones de cero o más caracteres. Trabajar con strings es una de las habilidades básicas que todas las Personas Desarrolladoras necesitan saber. Afortunadamente, JavaScript proporciona varias formas de manipular y trabajar con strings.
