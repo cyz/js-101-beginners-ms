@@ -1,3 +1,5 @@
+# Configuración
+
 Para comenzar a desarrollar código en JavaScript con Node.js, necesitarás instalar algunas herramientas esenciales. Aquí te explico cómo configurar tu entorno de desarrollo:
 
 ## Instalación de Node.js
