@@ -44,7 +44,7 @@ En este repositorio, encontrarás una variedad de recursos para complementar tu 
 
 - **Ejemplos de código**: Para cada tema del curso, encontrarás ejemplos de código prácticos y comentados. Estos ejemplos te permitirán ver cómo se aplican los conceptos en situaciones reales y te servirán como referencia para tus propios proyectos.
 
-- **Ejercicios prácticos**: Hemos incluido una serie de ejercicios para que puedas poner en práctica tus habilidades. Cada ejercicio viene con instrucciones detalladas y soluciones para que puedas comprobar tu progreso.
+<!-- - **Ejercicios prácticos**: Hemos incluido una serie de ejercicios para que puedas poner en práctica tus habilidades. Cada ejercicio viene con instrucciones detalladas y soluciones para que puedas comprobar tu progreso -->
 
 Te animamos a explorar estos recursos, experimentar con el código y usarlos como apoyo durante tu viaje de aprendizaje de JavaScript.
 
