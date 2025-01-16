@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/72ef782d-2471-440c-802e-000149a1e3a5)
+![image](https://github.com/user-attachments/assets/5cfe6765-5350-49ae-bbfc-9a813ad015f6)
 
 # Curso de JavaScript para Principiantes
 
@@ -27,14 +27,14 @@ No importa tu nivel de experiencia, encontrarás valor y desafíos que expandir�
 
 ## 📚 Contenido del Curso
 
-(Aquí puedes listar los módulos o temas principales del curso)
-
-1. Introducción a JavaScript
-2. Variables y Tipos de Datos
-3. Estructuras de Control
-4. Funciones
-5. Arrays y Objetos
-...
+1. Introducción
+1. Tipos de Datos
+1. Lógica booleana
+1. Arrays
+1. Funciones
+1. JSON
+1. Objetos en JavaScript
+1. Programación Asíncrona y Promesas
 
 ## 🛠 Requisitos
 
