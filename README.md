@@ -4,6 +4,8 @@
 
 Este curso es una colaboración entre [WoMakersCode](https://womakerscode.org/) y [Microsoft](https://www.microsoft.com/), diseñado para introducir a los principiantes en el mundo de JavaScript, el lenguaje de programación más utilizado en el desarrollo web.
 
+**Para que sea más fácil volver a visitar este repositorio en el futuro, también puedes marcar con [una estrella (🌟)](https://docs.github.com/es/get-started/exploring-projects-on-github/saving-repositories-with-stars) este repo.**
+
 ## 🎯 Acerca del Curso
 
 JavaScript es un lenguaje de programación versátil y esencial para el desarrollo web. Permite crear páginas web interactivas, dinámicas y responsivas, proporcionando una experiencia de usuario rica y envolvente. Utilizado tanto en el front-end como en el back-end, JavaScript es una habilidad indispensable para los desarrolladores modernos.
